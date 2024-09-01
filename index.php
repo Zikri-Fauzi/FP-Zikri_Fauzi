@@ -9,19 +9,19 @@
 
         <main class="main">
 
-            <?php include("./hero.php") ?>
+            <?php include("./templates/hero.php") ?>
             
-            <?php include("./about.php") ?>
+            <?php include("./templates/about.php") ?>
 
-            <?php include("./experiences.php") ?>
+            <?php include("./templates/experiences.php") ?>
 
-            <?php include("./education.php") ?>
+            <?php include("./templates/education.php") ?>
 
-            <?php include("./skills.php") ?>
+            <?php include("./templates/skills.php") ?>
 
-            <?php include("./hobby.php") ?>
+            <?php include("./templates/hobby.php") ?>
 
-            <?php include("./contact.php") ?>
+            <?php include("./templates/contact.php") ?>
 
             <?php include("./templates/footer.php") ?>
 
