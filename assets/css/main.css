@@ -843,6 +843,12 @@ section,
   font-size: 26px;
 }
 
+.about img {
+  border-radius: 20px;
+  height: 700px;
+  width: 500px;
+}
+
 .about .about-content ul {
   list-style: none;
   padding: 0;
@@ -1684,11 +1690,4 @@ section,
   font-size: 20px;
   margin-right: 8px;
   color: var(--accent-color);
-}
-
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
 }
